@@ -1,7 +1,7 @@
 {
-  "name": "hello-express",
+  "name": "projektweek-backend",
   "version": "1.0.0",
-  "description": "A Hello world application, making the creation of small Express based applications simpler.",
+  "description": "Not yet known :/",
   "main": "server.js",
   "scripts": {
     "test": "node server.js",
