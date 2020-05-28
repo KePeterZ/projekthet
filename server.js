@@ -12,6 +12,10 @@ app.get('/', (req, res) => {
   res.render('index');
 });
 
+app.get('/program', (req, res) => {
+  res.render('program');
+});
+
 app.post('/post', (req, res) => {
   res.end(res.toString())
   console.log(res.toString())
