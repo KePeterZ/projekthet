@@ -1,5 +1,5 @@
-# Hello World
-This is a Hello World example, written in Node.js using express, ejs, and MongoDB.
+# Backend for the Robotics Projekthét Project
+Simple server for writing programs, compiling them into JSON, and a simple queue system.
 
 ## Dependencies
 * node.js
@@ -10,7 +10,7 @@ This is a Hello World example, written in Node.js using express, ejs, and MongoD
 ## Installing
 
 ```
-git clone https://github.com/KePeterZ/helloworld.js
+git clone https://github.com/KePeterZ/projekthet.js
 npm install
 ```
 
@@ -19,9 +19,5 @@ npm install
 ```
 npm start
 ```
-
-## Default options
-* Static files should be placed in ./static/[whatever]
-* ejs files are in ./views/
 
 # KePeterZ, 2020
